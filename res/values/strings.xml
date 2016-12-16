@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PewPewPEW</string>
+    <string name="choose_character">Choose your character:</string>
+    <string name="play">PLAY</string>
+    <string name="current_choice">Your current choice:</string>
+    <string name="options">OPTIONS</string>
+    <string name="know_your_enemy">Know your enemy:</string>
+    <string name="ship1_name">EASTER BUNNY</string>
+    <string name="ship1_desc">Speed: 300\nThis bunny is very angry…</string>
+    <string name="ship2_name">TANK</string>
+    <string name="ship2_desc">Speed: 100\nIt\'s just a small Panzerkampfwagen.</string>
+    <string name="ship3_name">FAT NERD</string>
+    <string name="ship3_desc">Speed: 500\nSurprisingly fast</string>
+    <string name="enemy1">Aliens are fast, small and probably deadly - fortunately with only 1 health point.</string>
+    <string name="enemy2">Dirty dishes can be a pain in the ass but you probably deal with them easily (2HP).</string>
+    <string name="enemy3">Santa claus is fat, slow and deadly dangerous. Beware! (3HP)</string>
+</resources>
